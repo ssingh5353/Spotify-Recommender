@@ -1,0 +1,589 @@
+{
+  "tracks": [
+    {
+      "artist": "Bruno Mars",
+      "album": "24K Magic",
+      "track": "That's What I Like"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "Finale (Can't Wait To See What You Do Next)"
+    },
+    {
+      "artist": "A Great Big World",
+      "album": "Hold Each Other",
+      "track": "Hold Each Other"
+    },
+    {
+      "artist": "Jon Bellion",
+      "album": "The Human Condition",
+      "track": "Overwhelming"
+    },
+    {
+      "artist": "Bryce Vine",
+      "album": "La La Land (feat. YG)",
+      "track": "La La Land (feat. YG)"
+    },
+    {
+      "artist": "AJR",
+      "album": "The Click",
+      "track": "Overture"
+    },
+    {
+      "artist": "Bryce Vine",
+      "album": "Drew Barrymore",
+      "track": "Drew Barrymore"
+    },
+    {
+      "artist": "Bryce Vine",
+      "album": "Lazy Fair",
+      "track": "My Holiday"
+    },
+    {
+      "artist": "Bryce Vine",
+      "album": "Lazy Fair",
+      "track": "Guilty Pleasure"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Hymn for the Weekend",
+      "track": "Hymn for the Weekend - Seeb Remix"
+    },
+    {
+      "artist": "AJR",
+      "album": "Let the Games Begin",
+      "track": "Let the Games Begin"
+    },
+    {
+      "artist": "Eminem",
+      "album": "Recovery",
+      "track": "Not Afraid"
+    },
+    {
+      "artist": "AJR",
+      "album": "It's On Us (Benefiting the \"It's On Us\" Campaign)",
+      "track": "It's On Us (Benefiting the \"It's On Us\" Campaign)"
+    },
+    {
+      "artist": "Lil Nas X",
+      "album": "Old Town Road",
+      "track": "Old Town Road (feat. Billy Ray Cyrus) - Remix"
+    },
+    {
+      "artist": "Hoodie Allen",
+      "album": "Happy Camper",
+      "track": "Surprise Party (feat. Blackbear)"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "Castle on the Hill"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Vessel",
+      "track": "Guns for Hands"
+    },
+    {
+      "artist": "AJR",
+      "album": "The Click",
+      "track": "Weak"
+    },
+    {
+      "artist": "Jon Bellion",
+      "album": "Glory Sound Prep",
+      "track": "Stupid Deep"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "Don't Throw Out My Legos"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Twenty One Pilots",
+      "track": "The Pantaloon"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "New Man"
+    },
+    {
+      "artist": "Lupe Fiasco",
+      "album": "Food & Liquor II: The Great American Rap Album, Pt. 1",
+      "track": "Battle Scars"
+    },
+    {
+      "artist": "Jon Bellion",
+      "album": "Translations Through Speakers",
+      "track": "While You Count Sheep"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Trench",
+      "track": "My Blood"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "Galway Girl"
+    },
+    {
+      "artist": "Loud Luxury",
+      "album": "Body",
+      "track": "Body"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Trench",
+      "track": "The Hype"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "Wow, I'm Not Crazy"
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "album": "Eyes Wide Open",
+      "track": "Your Love's Like"
+    },
+    {
+      "artist": "Kygo",
+      "album": "It Ain't Me",
+      "track": "It Ain’t Me (with Selena Gomez)"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "Beats"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Heavy (feat. Kiiara)",
+      "track": "Heavy (feat. Kiiara)"
+    },
+    {
+      "artist": "Panic! At The Disco",
+      "album": "A Fever You Can't Sweat Out",
+      "track": "I Write Sins Not Tragedies"
+    },
+    {
+      "artist": "Owl City",
+      "album": "Ocean Eyes",
+      "track": "Fireflies"
+    },
+    {
+      "artist": "AJR",
+      "album": "The Click",
+      "track": "Drama"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Ride"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Evolve",
+      "track": "Thunder"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "Graduation",
+      "track": "Stronger"
+    },
+    {
+      "artist": "Jason Mraz",
+      "album": "We Sing. We Dance. We Steal Things.",
+      "track": "Lucky"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Memories...Do Not Open",
+      "track": "Something Just Like This"
+    },
+    {
+      "artist": "AJR",
+      "album": "The Click",
+      "track": "I'm Not Famous"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Trench",
+      "track": "Nico and the Niners"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "Dear Winter"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Tear in My Heart"
+    },
+    {
+      "artist": "Bruno Mars",
+      "album": "24K Magic",
+      "track": "Versace on the Floor"
+    },
+    {
+      "artist": "Machine Gun Kelly",
+      "album": "bloom",
+      "track": "Bad Things (with Camila Cabello)"
+    },
+    {
+      "artist": "AJR",
+      "album": "100 Bad Days",
+      "track": "100 Bad Days"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Lane Boy"
+    },
+    {
+      "artist": "Eminem",
+      "album": "Curtain Call",
+      "track": "Lose Yourself - From \"8 Mile\" Soundtrack"
+    },
+    {
+      "artist": "AJR",
+      "album": "Spotify Singles",
+      "track": "Location - Recorded at Spotify Studios NYC"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Vessel",
+      "track": "Car Radio"
+    },
+    {
+      "artist": "Zedd",
+      "album": "Stay",
+      "track": "Stay"
+    },
+    {
+      "artist": "Future",
+      "album": "Mask Off (feat. Kendrick Lamar)",
+      "track": "Mask Off (feat. Kendrick Lamar) - Remix"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "HUMBLE."
+    },
+    {
+      "artist": "Marshmello",
+      "album": "Silence",
+      "track": "Silence"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "Turning Out Pt. ii"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "Barcelona"
+    },
+    {
+      "artist": "Fort Minor",
+      "album": "The Rising Tied",
+      "track": "Remember the Name (feat. Styles of Beyond)"
+    },
+    {
+      "artist": "Watsky",
+      "album": "Cardboard Castles",
+      "track": "Tiny Glowing Screens, Part 2"
+    },
+    {
+      "artist": "Mako",
+      "album": "Our Story",
+      "track": "Our Story - Radio Edit"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Green Light",
+      "track": "Green Light"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Twenty One Pilots",
+      "track": "Before You Start Your Day"
+    },
+    {
+      "artist": "Kid Quill",
+      "album": "The Name Above the Title",
+      "track": "Daily Routine"
+    },
+    {
+      "artist": "gnash",
+      "album": "i hate u, i love u (feat. olivia o'brien)",
+      "track": "i hate u, i love u (feat. olivia o'brien) - Deepend Remix"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Sick Boy",
+      "track": "Sick Boy"
+    },
+    {
+      "artist": "Train",
+      "album": "Drops Of Jupiter",
+      "track": "Drops of Jupiter (Tell Me)"
+    },
+    {
+      "artist": "Social House",
+      "album": "Magic In The Hamptons (feat. Lil Yachty)",
+      "track": "Magic In The Hamptons (feat. Lil Yachty)"
+    },
+    {
+      "artist": "AJR",
+      "album": "I'm Ready - EP",
+      "track": "I'm Ready"
+    },
+    {
+      "artist": "AJR",
+      "album": "Drama",
+      "track": "Drama"
+    },
+    {
+      "artist": "AJR",
+      "album": "The Click",
+      "track": "Sober Up"
+    },
+    {
+      "artist": "Drake",
+      "album": "More Life",
+      "track": "Passionfruit"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "Birthday Party"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "The Entertainment's Here"
+    },
+    {
+      "artist": "Don Diablo",
+      "album": "What We Started (feat. BullySongs)",
+      "track": "What We Started (feat. BullySongs)"
+    },
+    {
+      "artist": "John Legend",
+      "album": "Love In The Future (Expanded Edition)",
+      "track": "All of Me"
+    },
+    {
+      "artist": "DJ Khaled",
+      "album": "I'm the One",
+      "track": "I'm the One"
+    },
+    {
+      "artist": "Bryce Vine",
+      "album": "Sunflower Seeds",
+      "track": "Sunflower Seeds"
+    },
+    {
+      "artist": "Bryce Vine",
+      "album": "Lazy Fair",
+      "track": "Sour Patch Kids"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "x",
+      "track": "Photograph"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "What Do I Know?"
+    },
+    {
+      "artist": "Post Malone",
+      "album": "Stoney",
+      "track": "Congratulations"
+    },
+    {
+      "artist": "One Direction",
+      "album": "Take Me Home: Yearbook Edition",
+      "track": "Still The One"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "Karma"
+    },
+    {
+      "artist": "One Direction",
+      "album": "Take Me Home: Yearbook Edition",
+      "track": "They Don't Know About Us"
+    },
+    {
+      "artist": "Skrillex",
+      "album": "Scary Monsters and Nice Sprites EP",
+      "track": "Scary Monsters and Nice Sprites"
+    },
+    {
+      "artist": "Jason Mraz",
+      "album": "We Sing. We Dance. We Steal Things.",
+      "track": "I'm Yours"
+    },
+    {
+      "artist": "AJR",
+      "album": "The Click",
+      "track": "Come Hang Out"
+    },
+    {
+      "artist": "Axwell /\\ Ingrosso",
+      "album": "I Love You",
+      "track": "I Love You"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Stressed Out"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Heavydirtysoul"
+    },
+    {
+      "artist": "B.o.B",
+      "album": "B.o.B Presents: The Adventures of Bobby Ray",
+      "track": "Airplanes (feat. Hayley Williams)"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "Next Up Forever"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Twenty One Pilots",
+      "track": "March To The Sea"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "Nancy Mulligan"
+    },
+    {
+      "artist": "DJ Khaled",
+      "album": "Grateful",
+      "track": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)"
+    },
+    {
+      "artist": "Bryce Vine",
+      "album": "Lazy Fair",
+      "track": "Take Me Home"
+    },
+    {
+      "artist": "Luis Fonsi",
+      "album": "Despacito Feat. Justin Bieber",
+      "track": "Despacito - Remix"
+    },
+    {
+      "artist": "R. City",
+      "album": "Locked Away (feat. Adam Levine)",
+      "track": "Locked Away (feat. Adam Levine)"
+    },
+    {
+      "artist": "Bruno Mars",
+      "album": "Unorthodox Jukebox",
+      "track": "When I Was Your Man"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Vessel",
+      "track": "Holding on to You"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Overexposed",
+      "track": "Payphone"
+    },
+    {
+      "artist": "Martin Garrix",
+      "album": "In the Name of Love",
+      "track": "In the Name of Love"
+    },
+    {
+      "artist": "AJR",
+      "album": "The Click",
+      "track": "Weak"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "Shape of You"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater",
+      "track": "100 Bad Days"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "TroyBoi",
+      "album": "WARLORDZ (feat. Skrillex)"
+    },
+    {
+      "artist": "AJR",
+      "album": "100 Bad Days"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "No.6 Collaborations Project"
+    },
+    {
+      "artist": "Quinn XCII",
+      "album": "A Letter To My Younger Self"
+    },
+    {
+      "artist": "AJR",
+      "album": "The Click"
+    },
+    {
+      "artist": "Skrillex",
+      "album": "Show Tracks"
+    },
+    {
+      "artist": "AJR",
+      "album": "The Click"
+    },
+    {
+      "artist": "AJR",
+      "album": "Neotheater"
+    },
+    {
+      "artist": "AJR",
+      "album": "Bang!"
+    },
+    {
+      "artist": "KSI",
+      "album": "Really Love (feat. Craig David & Digital Farm Animals)"
+    }
+  ],
+  "shows": [
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+    {
+      "artist": "Ingrid Michaelson",
+      "album": "Celebrate",
+      "track": "Celebrate"
+    }
+  ],
+  "other": [
+  ]
+}
