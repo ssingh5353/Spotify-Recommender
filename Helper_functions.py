@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 def is_favorite_song(num_listens):
-    if(num_listens >= 10):
+    if(num_listens >= 15):
         return "Favorite"
     return "Not favorite"
 
