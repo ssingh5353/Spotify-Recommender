@@ -43,20 +43,6 @@ def combine_genres(df):
 
 
 def OHE(feature, df):
-    '''songs = df.trackName.unique()
-    values = df[feature].unique()
-
-    song_feature_pair = {}
-    for song in songs:
-        song_feature_pair[song] = []
-
-    for row in df.itertuples():
-        songName = row.trackName
-        print(songName)
-        songFeature = getattr(row, feature)
-        # song_feature_pair[songName] # .append(songFeature)'''
-
-    
     values = df[feature].unique()
     for val in values:
         df[val] = 0
