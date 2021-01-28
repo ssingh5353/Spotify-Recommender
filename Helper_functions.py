@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 def is_favorite_song(num_listens):
-    if(num_listens >= 15):
+    if(num_listens >= 10):
         return "Favorite"
     return "Not favorite"
 
@@ -40,3 +40,38 @@ def combine_genres(df):
     new_df.drop(['index'],axis = 1, inplace = True)
 
     return new_df
+
+
+def OHE(feature, df):
+    '''songs = df.trackName.unique()
+    values = df[feature].unique()
+
+    song_feature_pair = {}
+    for song in songs:
+        song_feature_pair[song] = []
+
+    for row in df.itertuples():
+        songName = row.trackName
+        print(songName)
+        songFeature = getattr(row, feature)
+        # song_feature_pair[songName] # .append(songFeature)'''
+
+    
+    values = df[feature].unique()
+    for val in values:
+        df[val] = 0
+
+
+    for i in range(len(df)):
+        songName = df.iloc[i]['trackName']
+        feature_val = df.iloc[i][feature]
+        df.at[i, feature_val] = 1
+        # print(feature_val)
+        
+
+    
+
+    
+
+
+    # print(songs)
